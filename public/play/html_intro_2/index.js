@@ -1,3 +1,5 @@
+import "./styles.css";
+
 /*
 CHALLENGE: Assign the constant named favoriteColor to the text contained within the
 span element.  (HINT: Replace the string "red" with a call to the document.querySelector function.

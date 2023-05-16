@@ -1,3 +1,5 @@
+import "./styles.css";
+
 //Select the body element using querySelector
 const body = document.querySelector("body");
 body.style.background = "gray";
